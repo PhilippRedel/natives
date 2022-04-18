@@ -11,9 +11,9 @@ void _SET_VEHICLE_ROOF_LIVERY(Vehicle vehicle, int livery);
 
 Used to set the tornado custom (convertible) rooftop livery.
 
-Livery value that works for tornado custom is between 0 and 9 from what i can tell. Maybe 0-8 even.
+Livery value that works for tornado custom is between 0 (No Livery) and 6.
 
-Might work on other custom vehicles but im not sure what those might be, only confirmed it working with the tornado custom.
+Only Vehicle with a working roof livery is tornado5.
 
 
 ## Parameters
